@@ -1,0 +1,22 @@
+{
+  "35507": [
+    {
+      episodeNumber: 2,
+      provider: "zoro",
+      ed: {
+        times: {
+          start: 0,
+          end: 0
+        },
+        episodeLength: 24
+      },
+      op: {
+        times: {
+          start: 65,
+          end: 155
+        },
+        episodeLength: 24
+      }
+    }
+  ]
+}
